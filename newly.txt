@@ -1,2 +1,6 @@
 added some lines og code to get d repo clone
 some more line snow previously git pull cmd provided
+f
+f
+f
+f
